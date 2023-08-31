@@ -1,4 +1,4 @@
-soma =0;
+soma = 0
 for i in range(11, 30, 2):
-  soma = soma +i
+  soma = soma + i
   print(soma)
